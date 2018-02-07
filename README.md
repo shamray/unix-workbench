@@ -1,6 +1,6 @@
 # Guessing Game
 Creation date:
-February 07, 2018 19:47:55
+February 07, 2018 19:49:29
 
-Number of lines in guessinggame.sh:
+Number of lines in `guessinggame.sh`:
 21
